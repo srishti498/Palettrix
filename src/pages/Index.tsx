@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Shuffle, Sparkles, Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { toast } from 'sonner';
-import { Header } from '@/components/Header';
+import {Header} from '@/components/Header';
 import { ImageUpload } from '@/components/ImageUpload';
 import { ColorPalette } from '@/components/ColorPalette';
 import {

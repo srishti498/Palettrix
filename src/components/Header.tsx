@@ -21,13 +21,13 @@ export const Header: React.FC = () => {
       
       <div className="flex flex-wrap justify-center gap-4 mt-6">
         <div className="glass-card px-4 py-2 rounded-full">
-          <span className="text-sm font-medium text-primary">✨ AI-Powered</span>
+          <span className="text-sm font-medium text-primary">AI-Powered</span>
         </div>
         <div className="glass-card px-4 py-2 rounded-full">
-          <span className="text-sm font-medium text-accent">🎨 Material Design</span>
+          <span className="text-sm font-medium text-accent">Material Design</span>
         </div>
         <div className="glass-card px-4 py-2 rounded-full">
-          <span className="text-sm font-medium text-primary-glow">🚀 Tailwind Ready</span>
+          <span className="text-sm font-medium text-primary-glow">Tailwind Ready</span>
         </div>
       </div>
     </header>
